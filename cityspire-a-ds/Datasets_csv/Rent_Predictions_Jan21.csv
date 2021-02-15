@@ -1,0 +1,105 @@
+,City_State,Year_Month,Price
+0,"Albuquerque, New Mexico",2021-01,1319.3
+1,"Allentown, Pennsylvania",2021-01,988.6
+2,"Anaheim, California",2021-01,2673.7
+3,"Atlanta, Georgia",2021-01,1643.2
+4,"Augusta, Georgia",2021-01,1223.1
+5,"Austin, Texas",2021-01,1632.4
+6,"Bakersfield, California",2021-01,1887.1
+7,"Baltimore, Maryland",2021-01,1640.5
+8,"Birmingham, Alabama",2021-01,1589.6
+9,"Boise City, Idaho",2021-01,1343.1
+10,"Boston, Massachusetts",2021-01,2291.4
+11,"Boulder, Colorado",2021-01,2190.5
+12,"Bradenton, Florida",2021-01,2126.2
+13,"Charleston, South Carolina",2021-01,1766.7
+14,"Charlotte, North Carolina",2021-01,1543.6
+15,"Chattanooga, Tennessee",2021-01,1365.3
+16,"Chicago, Illinois",2021-01,1678.6
+17,"Cincinnati, Ohio",2021-01,1575.4
+18,"Cleveland, Ohio",2021-01,1354.4
+19,"Colorado Springs, Colorado",2021-01,1685.8
+20,"Columbia, South Carolina",2021-01,978.7
+21,"Columbus, Ohio",2021-01,1090.0
+22,"Dallas, Texas",2021-01,1779.5
+23,"Dayton, Ohio",2021-01,903.7
+24,"Daytona Beach, Florida",2021-01,1099.1
+25,"Denver, Colorado",2021-01,1846.5
+26,"Des Moines, Iowa",2021-01,1600.9
+27,"Detroit, Michigan",2021-01,1466.6
+28,"Durham, North Carolina",2021-01,1362.7
+29,"El Paso, Texas",2021-01,762.3
+30,"Fort Collins, Colorado",2021-01,1722.8
+31,"Fort Lauderdale, Florida",2021-01,1848.1
+32,"Fort Myers, Florida",2021-01,2326.2
+33,"Fort Worth, Texas",2021-01,1779.5
+34,"Fresno, California",2021-01,1842.7
+35,"Gainesville, Georgia",2021-01,1497.3
+36,"Grand Rapids, Michigan",2021-01,1368.7
+37,"Greeley, Colorado",2021-01,1543.3
+38,"Greensboro, North Carolina",2021-01,1372.8
+39,"Greenville, South Carolina",2021-01,1239.7
+40,"Harrisburg, Pennsylvania",2021-01,-2042.8
+41,"Hartford, Connecticut",2021-01,1373.0
+42,"Houston, Texas",2021-01,1547.2
+43,"Indianapolis, Indiana",2021-01,1200.6
+44,"Jacksonville, Florida",2021-01,1438.7
+45,"Jefferson County, Kentucky",2021-01,996.9
+46,"Kansas City, Missouri",2021-01,1256.0
+47,"Knoxville, Tennessee",2021-01,1378.8
+48,"Lakeland, Florida",2021-01,1517.9
+49,"Las Vegas, Nevada",2021-01,1594.7
+50,"Little Rock, Arkansas",2021-01,1094.7
+51,"Long Beach, California",2021-01,2673.7
+52,"Los Angeles, California",2021-01,2673.7
+53,"Louisville, Kentucky",2021-01,996.9
+54,"Madison, Wisconsin",2021-01,1310.5
+55,"Melbourne, Florida",2021-01,1478.4
+56,"Memphis, Tennessee",2021-01,1385.5
+57,"Miami, Florida",2021-01,1848.1
+58,"Milwaukee, Wisconsin",2021-01,1221.9
+59,"Minneapolis, Minnesota",2021-01,1482.9
+60,"Nashville, Tennessee",2021-01,1652.1
+61,"New Haven, Connecticut",2021-01,1456.1
+62,"New Orleans, Louisiana",2021-01,2226.9
+63,"New York, New York",2021-01,2414.2
+64,"North Port, Florida",2021-01,2126.2
+65,"Ogden, Utah",2021-01,1273.3
+66,"Oklahoma City, Oklahoma",2021-01,1253.1
+67,"Omaha, Nebraska",2021-01,941.4
+68,"Orlando, Florida",2021-01,1543.4
+69,"Philadelphia, Pennsylvania",2021-01,1687.1
+70,"Phoenix, Arizona",2021-01,1721.4
+71,"Pittsburgh, Pennsylvania",2021-01,1427.8
+72,"Port St. Lucie, Florida",2021-01,2329.9
+73,"Portland, Oregon",2021-01,1806.6
+74,"Providence, Rhode Island",2021-01,2105.0
+75,"Provo, Utah",2021-01,1577.9
+76,"Raleigh, North Carolina",2021-01,1547.6
+77,"Richmond, Virginia",2021-01,1516.7
+78,"Riverside, California",2021-01,2231.7
+79,"Rochester, New York",2021-01,308.3
+80,"Sacramento, California",2021-01,2091.7
+81,"Salem, North Carolina",2021-01,1480.3
+82,"Salt Lake City, Utah",2021-01,1598.3
+83,"San Antonio, Texas",2021-01,1386.2
+84,"San Diego, California",2021-01,2473.5
+85,"San Francisco, California",2021-01,3127.2
+86,"San Jose, California",2021-01,3364.1
+87,"Sarasota, Florida",2021-01,2126.2
+88,"Seattle, Washington",2021-01,2133.7
+89,"Spokane, Washington",2021-01,1749.9
+90,"St Paul, Minnesota",2021-01,1482.9
+91,"St. Louis, Missouri",2021-01,1361.9
+92,"Stamford, Connecticut",2021-01,3529.7
+93,"Stockton, California",2021-01,2214.5
+94,"Tampa, Florida",2021-01,1588.2
+95,"Toledo, Ohio",2021-01,930.6
+96,"Tucson, Arizona",2021-01,1202.2
+97,"Tulsa, Oklahoma",2021-01,1246.7
+98,"Urban Honolulu, Hawaii",2021-01,2019.2
+99,"Ventura, California",2021-01,3242.3
+100,"Virginia Beach, Virginia",2021-01,1363.0
+101,"Washington, District of Columbia",2021-01,2227.8
+102,"Wichita, Kansas",2021-01,675.5
+103,"Winston, North Carolina",2021-01,1480.3

@@ -5503,7 +5503,7 @@ city_state,id_num,population,crime_rate,rental_rate,walk_score
 "Woodside East, Delaware",5091,2669.0,34.73,1466.89,41.0
 "Wyoming, Delaware",5092,1517.0,11.8,1466.89,41.0
 "St. Georges, Delaware",29446,602.0,34.73,1466.89,41.0
-"Washington, District of Columbia",5093,721038.0,27.71,2227.8,
+"Washington, District of Columbia",5093,721038.0,27.71,2227.8,35.57
 "Acacia Villas, Florida",5094,458.0,30.31,1799.74,30.82
 "Alachua, Florida",5095,10179.0,31.3,1799.74,30.82
 "Alafaya, Florida",5096,93706.0,30.31,1799.74,17.0
@@ -26625,268 +26625,268 @@ city_state,id_num,population,crime_rate,rental_rate,walk_score
 "Yorkville, Tennessee",25370,266.0,26.58,1376.53,21.78
 "Christiana, Tennessee",29546,3882.0,26.58,1376.53,21.78
 "Rockvale, Tennessee",29551,1852.0,26.58,1376.53,21.78
-"Santa Isabel zona urbana, Puerto Rico",26454,5787.0,27.71,1466.89,
-"Santo Domingo comunidad, Puerto Rico",26455,3748.0,27.71,1466.89,
-"Stella comunidad, Puerto Rico",26456,1681.0,27.71,1466.89,
-"Suárez comunidad, Puerto Rico",26457,1937.0,27.71,1466.89,
-"Tallaboa comunidad, Puerto Rico",26458,715.0,27.71,1466.89,
-"Tallaboa Alta comunidad, Puerto Rico",26459,1219.0,27.71,1466.89,
-"Tibes comunidad, Puerto Rico",26460,496.0,27.71,1466.89,
-"Tiburones comunidad, Puerto Rico",26461,2601.0,27.71,1466.89,
-"Tierras Nuevas Poniente comunidad, Puerto Rico",26462,3656.0,27.71,1466.89,
-"Toa Alta zona urbana, Puerto Rico",26463,3525.0,27.71,1466.89,
-"Toa Baja zona urbana, Puerto Rico",26464,1122.0,27.71,1466.89,
-"Trujillo Alto zona urbana, Puerto Rico",26465,42030.0,27.71,1466.89,
-"Utuado zona urbana, Puerto Rico",26466,6252.0,27.71,1466.89,
-"Vayas comunidad, Puerto Rico",26467,673.0,27.71,1466.89,
-"Vázquez comunidad, Puerto Rico",26468,1939.0,27.71,1466.89,
-"Vega Alta zona urbana, Puerto Rico",26469,8654.0,27.71,1466.89,
-"Vega Baja zona urbana, Puerto Rico",26470,20409.0,27.71,1466.89,
-"Vieques comunidad, Puerto Rico",26471,2064.0,27.71,1466.89,
-"Vieques zona urbana, Puerto Rico",26472,3236.0,27.71,1466.89,
-"Villalba zona urbana, Puerto Rico",26473,2680.0,27.71,1466.89,
-"Yabucoa zona urbana, Puerto Rico",26474,7300.0,27.71,1466.89,
-"Yauco zona urbana, Puerto Rico",26475,16599.0,27.71,1466.89,
-"Yaurel comunidad, Puerto Rico",26476,1393.0,27.71,1466.89,
-"Aceitunas comunidad, Puerto Rico",29188,2148.0,27.71,1466.89,
-"Adjuntas zona urbana, Puerto Rico",29189,3980.0,27.71,1466.89,
-"Aguada zona urbana, Puerto Rico",29190,2288.0,27.71,1466.89,
-"Aguadilla zona urbana, Puerto Rico",29191,9854.0,27.71,1466.89,
-"Aguas Buenas zona urbana, Puerto Rico",29192,2608.0,27.71,1466.89,
-"Aguas Claras comunidad, Puerto Rico",29193,1951.0,27.71,1466.89,
-"Aguilita comunidad, Puerto Rico",29194,3547.0,27.71,1466.89,
-"Aibonito zona urbana, Puerto Rico",29195,8274.0,27.71,1466.89,
-"Alianza comunidad, Puerto Rico",29196,2987.0,27.71,1466.89,
-"Añasco zona urbana, Puerto Rico",29197,5907.0,27.71,1466.89,
-"Animas comunidad, Puerto Rico",29198,1334.0,27.71,1466.89,
-"Anon Raices comunidad, Puerto Rico",29199,68.0,27.71,1466.89,
-"Antón Ruíz comunidad, Puerto Rico",29200,2788.0,27.71,1466.89,
-"Arecibo zona urbana, Puerto Rico",29201,37200.0,27.71,1466.89,
-"Arroyo zona urbana, Puerto Rico",29202,5714.0,27.71,1466.89,
-"Bairoa La Vienticinco comunidad, Puerto Rico",29203,522.0,27.71,1466.89,
-"Bajadero comunidad, Puerto Rico",29204,3304.0,27.71,1466.89,
-"Bajandas comunidad, Puerto Rico",29205,631.0,27.71,1466.89,
-"Barahona comunidad, Puerto Rico",29206,1711.0,27.71,1466.89,
-"Barceloneta zona urbana, Puerto Rico",29207,3631.0,27.71,1466.89,
-"Barranquitas zona urbana, Puerto Rico",29208,1864.0,27.71,1466.89,
-"Bartolo comunidad, Puerto Rico",29209,1502.0,27.71,1466.89,
-"Bayamón zona urbana, Puerto Rico",29210,155862.0,27.71,1466.89,
-"Bayamón comunidad, Puerto Rico",29211,2065.0,27.71,1466.89,
-"Benítez comunidad, Puerto Rico",29212,1533.0,27.71,1466.89,
-"Betances comunidad, Puerto Rico",29213,738.0,27.71,1466.89,
-"Boquer?n comunidad (Cabo Rojo Municipio), Puerto Rico",29214,3279.0,27.71,1466.89,
-"Boquerón comunidad, Puerto Rico",29215,1400.0,27.71,1466.89,
-"Breñas comunidad, Puerto Rico",29216,4051.0,27.71,1466.89,
-"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",29217,930.0,27.71,1466.89,
-"Buena Vista comunidad (Humacao Municipio), Puerto Rico",29218,693.0,27.71,1466.89,
-"Búfalo comunidad, Puerto Rico",29219,740.0,27.71,1466.89,
-"Cabán comunidad, Puerto Rico",29220,3124.0,27.71,1466.89,
-"Cabo Rojo zona urbana, Puerto Rico",29221,8086.0,27.71,1466.89,
-"Cacao comunidad, Puerto Rico",29222,1236.0,27.71,1466.89,
-"Caguas zona urbana, Puerto Rico",29223,70892.0,27.71,1466.89,
-"Calzada comunidad, Puerto Rico",29224,238.0,27.71,1466.89,
-"Campanilla comunidad, Puerto Rico",29225,5150.0,27.71,1466.89,
-"Campo Rico comunidad, Puerto Rico",29226,2581.0,27.71,1466.89,
-"Camuy zona urbana, Puerto Rico",29227,3486.0,27.71,1466.89,
-"Candelaria comunidad, Puerto Rico",29228,14834.0,27.71,1466.89,
-"Candelaria Arenas comunidad, Puerto Rico",29229,3387.0,27.71,1466.89,
-"Candelero Abajo comunidad, Puerto Rico",29230,463.0,27.71,1466.89,
-"Candelero Arriba comunidad, Puerto Rico",29231,1361.0,27.71,1466.89,
-"Canóvanas zona urbana, Puerto Rico",29232,7252.0,27.71,1466.89,
-"Capitanejo comunidad, Puerto Rico",29233,2921.0,27.71,1466.89,
-"Carolina zona urbana, Puerto Rico",29234,132117.0,27.71,1466.89,
-"Carrizales comunidad, Puerto Rico",29235,3154.0,27.71,1466.89,
-"Cataño zona urbana, Puerto Rico",29236,23550.0,27.71,1466.89,
-"Cayey zona urbana, Puerto Rico",29237,13295.0,27.71,1466.89,
-"Cayuco comunidad, Puerto Rico",29238,1475.0,27.71,1466.89,
-"Ceiba zona urbana, Puerto Rico",29239,5196.0,27.71,1466.89,
-"Ceiba comunidad, Puerto Rico",29240,2126.0,27.71,1466.89,
-"Celada comunidad, Puerto Rico",29241,4275.0,27.71,1466.89,
-"Central Aguirre comunidad, Puerto Rico",29242,1330.0,27.71,1466.89,
-"Cerillos Hoyos comunidad, Puerto Rico",29243,1034.0,27.71,1466.89,
-"Ciales zona urbana, Puerto Rico",29244,2063.0,27.71,1466.89,
-"Cidra zona urbana, Puerto Rico",29245,5458.0,27.71,1466.89,
-"Coamo zona urbana, Puerto Rico",29246,10225.0,27.71,1466.89,
-"Coco comunidad, Puerto Rico",29247,5423.0,27.71,1466.89,
-"Comerío zona urbana, Puerto Rico",29248,4497.0,27.71,1466.89,
-"Comunas comunidad, Puerto Rico",29249,637.0,27.71,1466.89,
-"Coquí comunidad, Puerto Rico",29250,2697.0,27.71,1466.89,
-"Corazón comunidad, Puerto Rico",29251,1732.0,27.71,1466.89,
-"Corcovado comunidad, Puerto Rico",29252,1829.0,27.71,1466.89,
-"Corozal zona urbana, Puerto Rico",29253,8356.0,27.71,1466.89,
-"Corral Viejo comunidad, Puerto Rico",29254,612.0,27.71,1466.89,
-"Coto Laurel comunidad, Puerto Rico",29255,1057.0,27.71,1466.89,
-"Coto Norte comunidad, Puerto Rico",29256,1217.0,27.71,1466.89,
-"Culebra zona urbana, Puerto Rico",29257,1017.0,27.71,1466.89,
-"Daguao comunidad, Puerto Rico",29258,2097.0,27.71,1466.89,
-"Dorado zona urbana, Puerto Rico",29259,12307.0,27.71,1466.89,
-"Duque comunidad, Puerto Rico",29260,1740.0,27.71,1466.89,
-"El Combate comunidad, Puerto Rico",29261,160.0,27.71,1466.89,
-"El Mangó comunidad, Puerto Rico",29262,1567.0,27.71,1466.89,
-"El Negro comunidad, Puerto Rico",29263,1373.0,27.71,1466.89,
-"El Ojo comunidad, Puerto Rico",29264,1252.0,27.71,1466.89,
-"El Paraiso comunidad, Puerto Rico",29265,1717.0,27.71,1466.89,
-"El Tumbao comunidad, Puerto Rico",29266,1472.0,27.71,1466.89,
-"Emajagua comunidad, Puerto Rico",29267,2604.0,27.71,1466.89,
-"Esperanza comunidad, Puerto Rico",29268,999.0,27.71,1466.89,
-"Espino comunidad, Puerto Rico",29269,698.0,27.71,1466.89,
-"Fajardo zona urbana, Puerto Rico",29270,23335.0,27.71,1466.89,
-"Florida zona urbana, Puerto Rico",29271,3821.0,27.71,1466.89,
-"Fránquez comunidad, Puerto Rico",29272,1948.0,27.71,1466.89,
-"Fuig comunidad, Puerto Rico",29273,1146.0,27.71,1466.89,
-"Galateo comunidad, Puerto Rico",29274,3016.0,27.71,1466.89,
-"Garrochales comunidad, Puerto Rico",29275,1126.0,27.71,1466.89,
-"G. L. García comunidad, Puerto Rico",29276,1578.0,27.71,1466.89,
-"Guánica zona urbana, Puerto Rico",29277,6494.0,27.71,1466.89,
-"Guayabal comunidad, Puerto Rico",29278,1403.0,27.71,1466.89,
-"Guayama zona urbana, Puerto Rico",29279,21005.0,27.71,1466.89,
-"Guayanilla zona urbana, Puerto Rico",29280,4696.0,27.71,1466.89,
-"Guaynabo zona urbana, Puerto Rico",29281,66203.0,27.71,1466.89,
-"Gurabo zona urbana, Puerto Rico",29282,6954.0,27.71,1466.89,
-"Hacienda San Jose comunidad, Puerto Rico",29283,2729.0,27.71,1466.89,
-"Hatillo zona urbana, Puerto Rico",29284,3026.0,27.71,1466.89,
-"Hato Arriba comunidad, Puerto Rico",29285,269.0,27.71,1466.89,
-"Hato Candal comunidad, Puerto Rico",29286,1462.0,27.71,1466.89,
-"Hormigueros zona urbana, Puerto Rico",29287,10610.0,27.71,1466.89,
-"H. Rivera Colón comunidad, Puerto Rico",29288,2481.0,27.71,1466.89,
-"Humacao zona urbana, Puerto Rico",29289,17307.0,27.71,1466.89,
-"Imbéry comunidad, Puerto Rico",29290,4333.0,27.71,1466.89,
-"Indios comunidad, Puerto Rico",29291,1460.0,27.71,1466.89,
-"Ingenio comunidad, Puerto Rico",29292,3489.0,27.71,1466.89,
-"Isabela zona urbana, Puerto Rico",29293,10299.0,27.71,1466.89,
-"Jagual comunidad, Puerto Rico",29294,1500.0,27.71,1466.89,
-"Jauca comunidad, Puerto Rico",29295,1646.0,27.71,1466.89,
-"Jayuya zona urbana, Puerto Rico",29296,2056.0,27.71,1466.89,
-"Jobos comunidad, Puerto Rico",29297,1630.0,27.71,1466.89,
-"Juana Díaz zona urbana, Puerto Rico",29298,6610.0,27.71,1466.89,
-"Juncal comunidad, Puerto Rico",29299,529.0,27.71,1466.89,
-"Juncos zona urbana, Puerto Rico",29300,7298.0,27.71,1466.89,
-"La Alianza comunidad, Puerto Rico",29301,1734.0,27.71,1466.89,
-"La Dolores comunidad, Puerto Rico",29302,2537.0,27.71,1466.89,
-"La Fermina comunidad, Puerto Rico",29303,2501.0,27.71,1466.89,
-"Lajas zona urbana, Puerto Rico",29304,4210.0,27.71,1466.89,
-"La Liga comunidad, Puerto Rico",29305,292.0,27.71,1466.89,
-"La Luisa comunidad, Puerto Rico",29306,2018.0,27.71,1466.89,
-"Lamboglia comunidad, Puerto Rico",29307,895.0,27.71,1466.89,
-"La Parguera comunidad, Puerto Rico",29308,785.0,27.71,1466.89,
-"La Playa comunidad, Puerto Rico",29309,1931.0,27.71,1466.89,
-"La Plena comunidad, Puerto Rico",29310,411.0,27.71,1466.89,
-"Lares zona urbana, Puerto Rico",29311,3492.0,27.71,1466.89,
-"Las Carolinas comunidad, Puerto Rico",29312,1964.0,27.71,1466.89,
-"Las Croabas comunidad, Puerto Rico",29313,990.0,27.71,1466.89,
-"Las Marías comunidad, Puerto Rico",29314,1819.0,27.71,1466.89,
-"Las Marías zona urbana, Puerto Rico",29315,696.0,27.71,1466.89,
-"Las Ochenta comunidad, Puerto Rico",29316,626.0,27.71,1466.89,
-"Las Ollas comunidad, Puerto Rico",29317,1790.0,27.71,1466.89,
-"Las Piedras zona urbana, Puerto Rico",29318,6762.0,27.71,1466.89,
-"La Yuca comunidad, Puerto Rico",29319,473.0,27.71,1466.89,
-"Levittown comunidad, Puerto Rico",29320,23963.0,27.71,1466.89,
-"Liborio Negrón Torres comunidad, Puerto Rico",29321,1296.0,27.71,1466.89,
-"Lluveras comunidad, Puerto Rico",29322,770.0,27.71,1466.89,
-"Loíza zona urbana, Puerto Rico",29323,3233.0,27.71,1466.89,
-"Lomas comunidad, Puerto Rico",29324,1426.0,27.71,1466.89,
-"Los Llanos comunidad, Puerto Rico",29325,1953.0,27.71,1466.89,
-"Los Panes comunidad, Puerto Rico",29326,144.0,27.71,1466.89,
-"Los Prados comunidad, Puerto Rico",29327,2817.0,27.71,1466.89,
-"Luis Lloréns Torres comunidad, Puerto Rico",29328,3528.0,27.71,1466.89,
-"Luis M. Cintrón comunidad, Puerto Rico",29329,1524.0,27.71,1466.89,
-"Luquillo zona urbana, Puerto Rico",29330,7653.0,27.71,1466.89,
-"Luyando comunidad, Puerto Rico",29331,2589.0,27.71,1466.89,
-"Magas Arriba comunidad, Puerto Rico",29332,933.0,27.71,1466.89,
-"Maguayo comunidad, Puerto Rico",29333,933.0,27.71,1466.89,
-"Manatí zona urbana, Puerto Rico",29334,11841.0,27.71,1466.89,
-"María Antonia comunidad, Puerto Rico",29335,855.0,27.71,1466.89,
-"Mariano Colón comunidad, Puerto Rico",29336,2835.0,27.71,1466.89,
-"Maricao zona urbana, Puerto Rico",29337,585.0,27.71,1466.89,
-"Martorell comunidad, Puerto Rico",29338,1841.0,27.71,1466.89,
-"Marueño comunidad, Puerto Rico",29339,1064.0,27.71,1466.89,
-"Maunabo zona urbana, Puerto Rico",29340,1759.0,27.71,1466.89,
-"Mayagüez zona urbana, Puerto Rico",29341,59378.0,27.71,1466.89,
-"Miranda comunidad, Puerto Rico",29342,1470.0,27.71,1466.89,
-"Moca zona urbana, Puerto Rico",29343,3021.0,27.71,1466.89,
-"Monserrate comunidad, Puerto Rico",29344,2087.0,27.71,1466.89,
-"Monte Grande comunidad, Puerto Rico",29345,3339.0,27.71,1466.89,
-"Monte Verde comunidad, Puerto Rico",29346,19.0,27.71,1466.89,
-"Mora comunidad, Puerto Rico",29347,2037.0,27.71,1466.89,
-"Morovis zona urbana, Puerto Rico",29348,1805.0,27.71,1466.89,
-"Mucarabones comunidad, Puerto Rico",29349,845.0,27.71,1466.89,
-"Naguabo zona urbana, Puerto Rico",29350,5112.0,27.71,1466.89,
-"Naranjito zona urbana, Puerto Rico",29351,1418.0,27.71,1466.89,
-"Olimpo comunidad, Puerto Rico",29352,1589.0,27.71,1466.89,
-"Orocovis zona urbana, Puerto Rico",29353,920.0,27.71,1466.89,
-"Pájaros comunidad, Puerto Rico",29354,9978.0,27.71,1466.89,
-"Pajonal comunidad, Puerto Rico",29355,640.0,27.71,1466.89,
-"Palmarejo comunidad (Coamo Municipio), Puerto Rico",29356,703.0,27.71,1466.89,
-"Palmarejo comunidad (Lajas Municipio), Puerto Rico",29357,1704.0,27.71,1466.89,
-"Palmas comunidad, Puerto Rico",29358,743.0,27.71,1466.89,
-"Palmas del Mar comunidad, Puerto Rico",29359,1743.0,27.71,1466.89,
-"Palmer comunidad, Puerto Rico",29360,967.0,27.71,1466.89,
-"Palomas comunidad (Comerío Municipio), Puerto Rico",29361,1502.0,27.71,1466.89,
-"Palomas comunidad (Yauco Municipio), Puerto Rico",29362,1726.0,27.71,1466.89,
-"Palo Seco comunidad, Puerto Rico",29363,342.0,27.71,1466.89,
-"Parcelas de Navarro comunidad, Puerto Rico",29364,1728.0,27.71,1466.89,
-"Parcelas La Milagrosa comunidad, Puerto Rico",29365,1145.0,27.71,1466.89,
-"Parcelas Mandry comunidad, Puerto Rico",29366,542.0,27.71,1466.89,
-"Parcelas Nuevas comunidad, Puerto Rico",29367,997.0,27.71,1466.89,
-"Parcelas Peñuelas comunidad, Puerto Rico",29368,676.0,27.71,1466.89,
-"Parcelas Viejas Borinquen comunidad, Puerto Rico",29369,656.0,27.71,1466.89,
-"Pastos comunidad, Puerto Rico",29370,1229.0,27.71,1466.89,
-"Patillas zona urbana, Puerto Rico",29371,3397.0,27.71,1466.89,
-"Peña Pobre comunidad, Puerto Rico",29372,355.0,27.71,1466.89,
-"Peñuelas zona urbana, Puerto Rico",29373,4740.0,27.71,1466.89,
-"Piedra Aguza comunidad, Puerto Rico",29374,2634.0,27.71,1466.89,
-"Piedra Gorda comunidad, Puerto Rico",29375,1097.0,27.71,1466.89,
-"Playa Fortuna comunidad, Puerto Rico",29376,668.0,27.71,1466.89,
-"Playita comunidad (Salinas Municipio), Puerto Rico",29377,340.0,27.71,1466.89,
-"Playita comunidad (Yabucoa Municipio), Puerto Rico",29378,1604.0,27.71,1466.89,
-"Playita Cortada comunidad, Puerto Rico",29379,987.0,27.71,1466.89,
-"Pole Ojea comunidad, Puerto Rico",29380,1722.0,27.71,1466.89,
-"Ponce zona urbana, Puerto Rico",29381,107919.0,27.71,1466.89,
-"Potala Pastillo comunidad, Puerto Rico",29382,2465.0,27.71,1466.89,
-"Pueblito del Carmen comunidad, Puerto Rico",29383,744.0,27.71,1466.89,
-"Pueblito del Río comunidad, Puerto Rico",29384,1293.0,27.71,1466.89,
-"Puerto Real comunidad, Puerto Rico",29385,5995.0,27.71,1466.89,
-"Punta Santiago comunidad, Puerto Rico",29386,4595.0,27.71,1466.89,
-"Quebrada comunidad, Puerto Rico",29387,1082.0,27.71,1466.89,
-"Quebrada del Agua comunidad, Puerto Rico",29388,1255.0,27.71,1466.89,
-"Quebradillas zona urbana, Puerto Rico",29389,4317.0,27.71,1466.89,
-"Rafael Capó comunidad, Puerto Rico",29390,1274.0,27.71,1466.89,
-"Rafael González comunidad, Puerto Rico",29391,1873.0,27.71,1466.89,
-"Rafael Hernández comunidad, Puerto Rico",29392,971.0,27.71,1466.89,
-"Ramos comunidad, Puerto Rico",29393,1590.0,27.71,1466.89,
-"Rincón zona urbana, Puerto Rico",29394,928.0,27.71,1466.89,
-"Río Blanco comunidad, Puerto Rico",29395,1705.0,27.71,1466.89,
-"Río Cañas Abajo comunidad, Puerto Rico",29396,1244.0,27.71,1466.89,
-"Río Grande zona urbana, Puerto Rico",29397,13032.0,27.71,1466.89,
-"Río Lajas comunidad, Puerto Rico",29398,2579.0,27.71,1466.89,
-"Rodr?guez Hevia zona urbana, Puerto Rico",29399,207.0,27.71,1466.89,
-"Rosa Sánchez comunidad, Puerto Rico",29400,424.0,27.71,1466.89,
-"Sabana comunidad, Puerto Rico",29401,692.0,27.71,1466.89,
-"Sabana Eneas comunidad, Puerto Rico",29402,966.0,27.71,1466.89,
-"Sabana Grande zona urbana, Puerto Rico",29403,9720.0,27.71,1466.89,
-"Sabana Hoyos comunidad, Puerto Rico",29404,2127.0,27.71,1466.89,
-"Sabana Seca comunidad, Puerto Rico",29405,6914.0,27.71,1466.89,
-"Salinas zona urbana, Puerto Rico",29406,4665.0,27.71,1466.89,
-"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",29407,1370.0,27.71,1466.89,
-"San Antonio comunidad (Dorado Municipio), Puerto Rico",29408,7974.0,27.71,1466.89,
-"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",29409,1678.0,27.71,1466.89,
-"San Germán zona urbana, Puerto Rico",29410,11113.0,27.71,1466.89,
-"San Isidro comunidad, Puerto Rico",29411,6194.0,27.71,1466.89,
-"San José comunidad, Puerto Rico",29412,2475.0,27.71,1466.89,
-"San Juan zona urbana, Puerto Rico",29413,310029.0,27.71,1466.89,
-"San Lorenzo zona urbana, Puerto Rico",29414,7247.0,27.71,1466.89,
-"San Sebastián zona urbana, Puerto Rico",29415,7636.0,27.71,1466.89,
-"Santa Bárbara comunidad, Puerto Rico",29416,4756.0,27.71,1466.89,
-"Santa Clara comunidad, Puerto Rico",29417,928.0,27.71,1466.89,
-"Cerrillos Hoyos comunidad, Puerto Rico",29433,1057.0,27.71,1466.89,
-"Rodr?guez Hevia comunidad, Puerto Rico",29434,500.0,27.71,1466.89,
-"Rodriguez Hevia comunidad, Puerto Rico",29537,51.0,27.71,1466.89,
-"Bairoa La Veinticinco comunidad, Puerto Rico",29541,652.0,27.71,1466.89,
-"Boqueron comunidad (Cabo Rojo Municipio), Puerto Rico",29542,2695.0,27.71,1466.89,
-"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",29589,1538.0,27.71,1466.89,
-"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",29590,1119.0,27.71,1466.89,
-"Hacienda San José comunidad, Puerto Rico",29591,3112.0,27.71,1466.89,
-"Rodríguez Hevia comunidad, Puerto Rico",29594,252.0,27.71,1466.89,
+"Santa Isabel zona urbana, Puerto Rico",26454,5787.0,27.71,1466.89,35.57
+"Santo Domingo comunidad, Puerto Rico",26455,3748.0,27.71,1466.89,35.57
+"Stella comunidad, Puerto Rico",26456,1681.0,27.71,1466.89,35.57
+"Suárez comunidad, Puerto Rico",26457,1937.0,27.71,1466.89,35.57
+"Tallaboa comunidad, Puerto Rico",26458,715.0,27.71,1466.89,35.57
+"Tallaboa Alta comunidad, Puerto Rico",26459,1219.0,27.71,1466.89,35.57
+"Tibes comunidad, Puerto Rico",26460,496.0,27.71,1466.89,35.57
+"Tiburones comunidad, Puerto Rico",26461,2601.0,27.71,1466.89,35.57
+"Tierras Nuevas Poniente comunidad, Puerto Rico",26462,3656.0,27.71,1466.89,35.57
+"Toa Alta zona urbana, Puerto Rico",26463,3525.0,27.71,1466.89,35.57
+"Toa Baja zona urbana, Puerto Rico",26464,1122.0,27.71,1466.89,35.57
+"Trujillo Alto zona urbana, Puerto Rico",26465,42030.0,27.71,1466.89,35.57
+"Utuado zona urbana, Puerto Rico",26466,6252.0,27.71,1466.89,35.57
+"Vayas comunidad, Puerto Rico",26467,673.0,27.71,1466.89,35.57
+"Vázquez comunidad, Puerto Rico",26468,1939.0,27.71,1466.89,35.57
+"Vega Alta zona urbana, Puerto Rico",26469,8654.0,27.71,1466.89,35.57
+"Vega Baja zona urbana, Puerto Rico",26470,20409.0,27.71,1466.89,35.57
+"Vieques comunidad, Puerto Rico",26471,2064.0,27.71,1466.89,35.57
+"Vieques zona urbana, Puerto Rico",26472,3236.0,27.71,1466.89,35.57
+"Villalba zona urbana, Puerto Rico",26473,2680.0,27.71,1466.89,35.57
+"Yabucoa zona urbana, Puerto Rico",26474,7300.0,27.71,1466.89,35.57
+"Yauco zona urbana, Puerto Rico",26475,16599.0,27.71,1466.89,35.57
+"Yaurel comunidad, Puerto Rico",26476,1393.0,27.71,1466.89,35.57
+"Aceitunas comunidad, Puerto Rico",29188,2148.0,27.71,1466.89,35.57
+"Adjuntas zona urbana, Puerto Rico",29189,3980.0,27.71,1466.89,35.57
+"Aguada zona urbana, Puerto Rico",29190,2288.0,27.71,1466.89,35.57
+"Aguadilla zona urbana, Puerto Rico",29191,9854.0,27.71,1466.89,35.57
+"Aguas Buenas zona urbana, Puerto Rico",29192,2608.0,27.71,1466.89,35.57
+"Aguas Claras comunidad, Puerto Rico",29193,1951.0,27.71,1466.89,35.57
+"Aguilita comunidad, Puerto Rico",29194,3547.0,27.71,1466.89,35.57
+"Aibonito zona urbana, Puerto Rico",29195,8274.0,27.71,1466.89,35.57
+"Alianza comunidad, Puerto Rico",29196,2987.0,27.71,1466.89,35.57
+"Añasco zona urbana, Puerto Rico",29197,5907.0,27.71,1466.89,35.57
+"Animas comunidad, Puerto Rico",29198,1334.0,27.71,1466.89,35.57
+"Anon Raices comunidad, Puerto Rico",29199,68.0,27.71,1466.89,35.57
+"Antón Ruíz comunidad, Puerto Rico",29200,2788.0,27.71,1466.89,35.57
+"Arecibo zona urbana, Puerto Rico",29201,37200.0,27.71,1466.89,35.57
+"Arroyo zona urbana, Puerto Rico",29202,5714.0,27.71,1466.89,35.57
+"Bairoa La Vienticinco comunidad, Puerto Rico",29203,522.0,27.71,1466.89,35.57
+"Bajadero comunidad, Puerto Rico",29204,3304.0,27.71,1466.89,35.57
+"Bajandas comunidad, Puerto Rico",29205,631.0,27.71,1466.89,35.57
+"Barahona comunidad, Puerto Rico",29206,1711.0,27.71,1466.89,35.57
+"Barceloneta zona urbana, Puerto Rico",29207,3631.0,27.71,1466.89,35.57
+"Barranquitas zona urbana, Puerto Rico",29208,1864.0,27.71,1466.89,35.57
+"Bartolo comunidad, Puerto Rico",29209,1502.0,27.71,1466.89,35.57
+"Bayamón zona urbana, Puerto Rico",29210,155862.0,27.71,1466.89,35.57
+"Bayamón comunidad, Puerto Rico",29211,2065.0,27.71,1466.89,35.57
+"Benítez comunidad, Puerto Rico",29212,1533.0,27.71,1466.89,35.57
+"Betances comunidad, Puerto Rico",29213,738.0,27.71,1466.89,35.57
+"Boquer?n comunidad (Cabo Rojo Municipio), Puerto Rico",29214,3279.0,27.71,1466.89,35.57
+"Boquerón comunidad, Puerto Rico",29215,1400.0,27.71,1466.89,35.57
+"Breñas comunidad, Puerto Rico",29216,4051.0,27.71,1466.89,35.57
+"Buena Vista comunidad (Arroyo Municipio), Puerto Rico",29217,930.0,27.71,1466.89,35.57
+"Buena Vista comunidad (Humacao Municipio), Puerto Rico",29218,693.0,27.71,1466.89,35.57
+"Búfalo comunidad, Puerto Rico",29219,740.0,27.71,1466.89,35.57
+"Cabán comunidad, Puerto Rico",29220,3124.0,27.71,1466.89,35.57
+"Cabo Rojo zona urbana, Puerto Rico",29221,8086.0,27.71,1466.89,35.57
+"Cacao comunidad, Puerto Rico",29222,1236.0,27.71,1466.89,35.57
+"Caguas zona urbana, Puerto Rico",29223,70892.0,27.71,1466.89,35.57
+"Calzada comunidad, Puerto Rico",29224,238.0,27.71,1466.89,35.57
+"Campanilla comunidad, Puerto Rico",29225,5150.0,27.71,1466.89,35.57
+"Campo Rico comunidad, Puerto Rico",29226,2581.0,27.71,1466.89,35.57
+"Camuy zona urbana, Puerto Rico",29227,3486.0,27.71,1466.89,35.57
+"Candelaria comunidad, Puerto Rico",29228,14834.0,27.71,1466.89,35.57
+"Candelaria Arenas comunidad, Puerto Rico",29229,3387.0,27.71,1466.89,35.57
+"Candelero Abajo comunidad, Puerto Rico",29230,463.0,27.71,1466.89,35.57
+"Candelero Arriba comunidad, Puerto Rico",29231,1361.0,27.71,1466.89,35.57
+"Canóvanas zona urbana, Puerto Rico",29232,7252.0,27.71,1466.89,35.57
+"Capitanejo comunidad, Puerto Rico",29233,2921.0,27.71,1466.89,35.57
+"Carolina zona urbana, Puerto Rico",29234,132117.0,27.71,1466.89,35.57
+"Carrizales comunidad, Puerto Rico",29235,3154.0,27.71,1466.89,35.57
+"Cataño zona urbana, Puerto Rico",29236,23550.0,27.71,1466.89,35.57
+"Cayey zona urbana, Puerto Rico",29237,13295.0,27.71,1466.89,35.57
+"Cayuco comunidad, Puerto Rico",29238,1475.0,27.71,1466.89,35.57
+"Ceiba zona urbana, Puerto Rico",29239,5196.0,27.71,1466.89,35.57
+"Ceiba comunidad, Puerto Rico",29240,2126.0,27.71,1466.89,35.57
+"Celada comunidad, Puerto Rico",29241,4275.0,27.71,1466.89,35.57
+"Central Aguirre comunidad, Puerto Rico",29242,1330.0,27.71,1466.89,35.57
+"Cerillos Hoyos comunidad, Puerto Rico",29243,1034.0,27.71,1466.89,35.57
+"Ciales zona urbana, Puerto Rico",29244,2063.0,27.71,1466.89,35.57
+"Cidra zona urbana, Puerto Rico",29245,5458.0,27.71,1466.89,35.57
+"Coamo zona urbana, Puerto Rico",29246,10225.0,27.71,1466.89,35.57
+"Coco comunidad, Puerto Rico",29247,5423.0,27.71,1466.89,35.57
+"Comerío zona urbana, Puerto Rico",29248,4497.0,27.71,1466.89,35.57
+"Comunas comunidad, Puerto Rico",29249,637.0,27.71,1466.89,35.57
+"Coquí comunidad, Puerto Rico",29250,2697.0,27.71,1466.89,35.57
+"Corazón comunidad, Puerto Rico",29251,1732.0,27.71,1466.89,35.57
+"Corcovado comunidad, Puerto Rico",29252,1829.0,27.71,1466.89,35.57
+"Corozal zona urbana, Puerto Rico",29253,8356.0,27.71,1466.89,35.57
+"Corral Viejo comunidad, Puerto Rico",29254,612.0,27.71,1466.89,35.57
+"Coto Laurel comunidad, Puerto Rico",29255,1057.0,27.71,1466.89,35.57
+"Coto Norte comunidad, Puerto Rico",29256,1217.0,27.71,1466.89,35.57
+"Culebra zona urbana, Puerto Rico",29257,1017.0,27.71,1466.89,35.57
+"Daguao comunidad, Puerto Rico",29258,2097.0,27.71,1466.89,35.57
+"Dorado zona urbana, Puerto Rico",29259,12307.0,27.71,1466.89,35.57
+"Duque comunidad, Puerto Rico",29260,1740.0,27.71,1466.89,35.57
+"El Combate comunidad, Puerto Rico",29261,160.0,27.71,1466.89,35.57
+"El Mangó comunidad, Puerto Rico",29262,1567.0,27.71,1466.89,35.57
+"El Negro comunidad, Puerto Rico",29263,1373.0,27.71,1466.89,35.57
+"El Ojo comunidad, Puerto Rico",29264,1252.0,27.71,1466.89,35.57
+"El Paraiso comunidad, Puerto Rico",29265,1717.0,27.71,1466.89,35.57
+"El Tumbao comunidad, Puerto Rico",29266,1472.0,27.71,1466.89,35.57
+"Emajagua comunidad, Puerto Rico",29267,2604.0,27.71,1466.89,35.57
+"Esperanza comunidad, Puerto Rico",29268,999.0,27.71,1466.89,35.57
+"Espino comunidad, Puerto Rico",29269,698.0,27.71,1466.89,35.57
+"Fajardo zona urbana, Puerto Rico",29270,23335.0,27.71,1466.89,35.57
+"Florida zona urbana, Puerto Rico",29271,3821.0,27.71,1466.89,35.57
+"Fránquez comunidad, Puerto Rico",29272,1948.0,27.71,1466.89,35.57
+"Fuig comunidad, Puerto Rico",29273,1146.0,27.71,1466.89,35.57
+"Galateo comunidad, Puerto Rico",29274,3016.0,27.71,1466.89,35.57
+"Garrochales comunidad, Puerto Rico",29275,1126.0,27.71,1466.89,35.57
+"G. L. García comunidad, Puerto Rico",29276,1578.0,27.71,1466.89,35.57
+"Guánica zona urbana, Puerto Rico",29277,6494.0,27.71,1466.89,35.57
+"Guayabal comunidad, Puerto Rico",29278,1403.0,27.71,1466.89,35.57
+"Guayama zona urbana, Puerto Rico",29279,21005.0,27.71,1466.89,35.57
+"Guayanilla zona urbana, Puerto Rico",29280,4696.0,27.71,1466.89,35.57
+"Guaynabo zona urbana, Puerto Rico",29281,66203.0,27.71,1466.89,35.57
+"Gurabo zona urbana, Puerto Rico",29282,6954.0,27.71,1466.89,35.57
+"Hacienda San Jose comunidad, Puerto Rico",29283,2729.0,27.71,1466.89,35.57
+"Hatillo zona urbana, Puerto Rico",29284,3026.0,27.71,1466.89,35.57
+"Hato Arriba comunidad, Puerto Rico",29285,269.0,27.71,1466.89,35.57
+"Hato Candal comunidad, Puerto Rico",29286,1462.0,27.71,1466.89,35.57
+"Hormigueros zona urbana, Puerto Rico",29287,10610.0,27.71,1466.89,35.57
+"H. Rivera Colón comunidad, Puerto Rico",29288,2481.0,27.71,1466.89,35.57
+"Humacao zona urbana, Puerto Rico",29289,17307.0,27.71,1466.89,35.57
+"Imbéry comunidad, Puerto Rico",29290,4333.0,27.71,1466.89,35.57
+"Indios comunidad, Puerto Rico",29291,1460.0,27.71,1466.89,35.57
+"Ingenio comunidad, Puerto Rico",29292,3489.0,27.71,1466.89,35.57
+"Isabela zona urbana, Puerto Rico",29293,10299.0,27.71,1466.89,35.57
+"Jagual comunidad, Puerto Rico",29294,1500.0,27.71,1466.89,35.57
+"Jauca comunidad, Puerto Rico",29295,1646.0,27.71,1466.89,35.57
+"Jayuya zona urbana, Puerto Rico",29296,2056.0,27.71,1466.89,35.57
+"Jobos comunidad, Puerto Rico",29297,1630.0,27.71,1466.89,35.57
+"Juana Díaz zona urbana, Puerto Rico",29298,6610.0,27.71,1466.89,35.57
+"Juncal comunidad, Puerto Rico",29299,529.0,27.71,1466.89,35.57
+"Juncos zona urbana, Puerto Rico",29300,7298.0,27.71,1466.89,35.57
+"La Alianza comunidad, Puerto Rico",29301,1734.0,27.71,1466.89,35.57
+"La Dolores comunidad, Puerto Rico",29302,2537.0,27.71,1466.89,35.57
+"La Fermina comunidad, Puerto Rico",29303,2501.0,27.71,1466.89,35.57
+"Lajas zona urbana, Puerto Rico",29304,4210.0,27.71,1466.89,35.57
+"La Liga comunidad, Puerto Rico",29305,292.0,27.71,1466.89,35.57
+"La Luisa comunidad, Puerto Rico",29306,2018.0,27.71,1466.89,35.57
+"Lamboglia comunidad, Puerto Rico",29307,895.0,27.71,1466.89,35.57
+"La Parguera comunidad, Puerto Rico",29308,785.0,27.71,1466.89,35.57
+"La Playa comunidad, Puerto Rico",29309,1931.0,27.71,1466.89,35.57
+"La Plena comunidad, Puerto Rico",29310,411.0,27.71,1466.89,35.57
+"Lares zona urbana, Puerto Rico",29311,3492.0,27.71,1466.89,35.57
+"Las Carolinas comunidad, Puerto Rico",29312,1964.0,27.71,1466.89,35.57
+"Las Croabas comunidad, Puerto Rico",29313,990.0,27.71,1466.89,35.57
+"Las Marías comunidad, Puerto Rico",29314,1819.0,27.71,1466.89,35.57
+"Las Marías zona urbana, Puerto Rico",29315,696.0,27.71,1466.89,35.57
+"Las Ochenta comunidad, Puerto Rico",29316,626.0,27.71,1466.89,35.57
+"Las Ollas comunidad, Puerto Rico",29317,1790.0,27.71,1466.89,35.57
+"Las Piedras zona urbana, Puerto Rico",29318,6762.0,27.71,1466.89,35.57
+"La Yuca comunidad, Puerto Rico",29319,473.0,27.71,1466.89,35.57
+"Levittown comunidad, Puerto Rico",29320,23963.0,27.71,1466.89,35.57
+"Liborio Negrón Torres comunidad, Puerto Rico",29321,1296.0,27.71,1466.89,35.57
+"Lluveras comunidad, Puerto Rico",29322,770.0,27.71,1466.89,35.57
+"Loíza zona urbana, Puerto Rico",29323,3233.0,27.71,1466.89,35.57
+"Lomas comunidad, Puerto Rico",29324,1426.0,27.71,1466.89,35.57
+"Los Llanos comunidad, Puerto Rico",29325,1953.0,27.71,1466.89,35.57
+"Los Panes comunidad, Puerto Rico",29326,144.0,27.71,1466.89,35.57
+"Los Prados comunidad, Puerto Rico",29327,2817.0,27.71,1466.89,35.57
+"Luis Lloréns Torres comunidad, Puerto Rico",29328,3528.0,27.71,1466.89,35.57
+"Luis M. Cintrón comunidad, Puerto Rico",29329,1524.0,27.71,1466.89,35.57
+"Luquillo zona urbana, Puerto Rico",29330,7653.0,27.71,1466.89,35.57
+"Luyando comunidad, Puerto Rico",29331,2589.0,27.71,1466.89,35.57
+"Magas Arriba comunidad, Puerto Rico",29332,933.0,27.71,1466.89,35.57
+"Maguayo comunidad, Puerto Rico",29333,933.0,27.71,1466.89,35.57
+"Manatí zona urbana, Puerto Rico",29334,11841.0,27.71,1466.89,35.57
+"María Antonia comunidad, Puerto Rico",29335,855.0,27.71,1466.89,35.57
+"Mariano Colón comunidad, Puerto Rico",29336,2835.0,27.71,1466.89,35.57
+"Maricao zona urbana, Puerto Rico",29337,585.0,27.71,1466.89,35.57
+"Martorell comunidad, Puerto Rico",29338,1841.0,27.71,1466.89,35.57
+"Marueño comunidad, Puerto Rico",29339,1064.0,27.71,1466.89,35.57
+"Maunabo zona urbana, Puerto Rico",29340,1759.0,27.71,1466.89,35.57
+"Mayagüez zona urbana, Puerto Rico",29341,59378.0,27.71,1466.89,35.57
+"Miranda comunidad, Puerto Rico",29342,1470.0,27.71,1466.89,35.57
+"Moca zona urbana, Puerto Rico",29343,3021.0,27.71,1466.89,35.57
+"Monserrate comunidad, Puerto Rico",29344,2087.0,27.71,1466.89,35.57
+"Monte Grande comunidad, Puerto Rico",29345,3339.0,27.71,1466.89,35.57
+"Monte Verde comunidad, Puerto Rico",29346,19.0,27.71,1466.89,35.57
+"Mora comunidad, Puerto Rico",29347,2037.0,27.71,1466.89,35.57
+"Morovis zona urbana, Puerto Rico",29348,1805.0,27.71,1466.89,35.57
+"Mucarabones comunidad, Puerto Rico",29349,845.0,27.71,1466.89,35.57
+"Naguabo zona urbana, Puerto Rico",29350,5112.0,27.71,1466.89,35.57
+"Naranjito zona urbana, Puerto Rico",29351,1418.0,27.71,1466.89,35.57
+"Olimpo comunidad, Puerto Rico",29352,1589.0,27.71,1466.89,35.57
+"Orocovis zona urbana, Puerto Rico",29353,920.0,27.71,1466.89,35.57
+"Pájaros comunidad, Puerto Rico",29354,9978.0,27.71,1466.89,35.57
+"Pajonal comunidad, Puerto Rico",29355,640.0,27.71,1466.89,35.57
+"Palmarejo comunidad (Coamo Municipio), Puerto Rico",29356,703.0,27.71,1466.89,35.57
+"Palmarejo comunidad (Lajas Municipio), Puerto Rico",29357,1704.0,27.71,1466.89,35.57
+"Palmas comunidad, Puerto Rico",29358,743.0,27.71,1466.89,35.57
+"Palmas del Mar comunidad, Puerto Rico",29359,1743.0,27.71,1466.89,35.57
+"Palmer comunidad, Puerto Rico",29360,967.0,27.71,1466.89,35.57
+"Palomas comunidad (Comerío Municipio), Puerto Rico",29361,1502.0,27.71,1466.89,35.57
+"Palomas comunidad (Yauco Municipio), Puerto Rico",29362,1726.0,27.71,1466.89,35.57
+"Palo Seco comunidad, Puerto Rico",29363,342.0,27.71,1466.89,35.57
+"Parcelas de Navarro comunidad, Puerto Rico",29364,1728.0,27.71,1466.89,35.57
+"Parcelas La Milagrosa comunidad, Puerto Rico",29365,1145.0,27.71,1466.89,35.57
+"Parcelas Mandry comunidad, Puerto Rico",29366,542.0,27.71,1466.89,35.57
+"Parcelas Nuevas comunidad, Puerto Rico",29367,997.0,27.71,1466.89,35.57
+"Parcelas Peñuelas comunidad, Puerto Rico",29368,676.0,27.71,1466.89,35.57
+"Parcelas Viejas Borinquen comunidad, Puerto Rico",29369,656.0,27.71,1466.89,35.57
+"Pastos comunidad, Puerto Rico",29370,1229.0,27.71,1466.89,35.57
+"Patillas zona urbana, Puerto Rico",29371,3397.0,27.71,1466.89,35.57
+"Peña Pobre comunidad, Puerto Rico",29372,355.0,27.71,1466.89,35.57
+"Peñuelas zona urbana, Puerto Rico",29373,4740.0,27.71,1466.89,35.57
+"Piedra Aguza comunidad, Puerto Rico",29374,2634.0,27.71,1466.89,35.57
+"Piedra Gorda comunidad, Puerto Rico",29375,1097.0,27.71,1466.89,35.57
+"Playa Fortuna comunidad, Puerto Rico",29376,668.0,27.71,1466.89,35.57
+"Playita comunidad (Salinas Municipio), Puerto Rico",29377,340.0,27.71,1466.89,35.57
+"Playita comunidad (Yabucoa Municipio), Puerto Rico",29378,1604.0,27.71,1466.89,35.57
+"Playita Cortada comunidad, Puerto Rico",29379,987.0,27.71,1466.89,35.57
+"Pole Ojea comunidad, Puerto Rico",29380,1722.0,27.71,1466.89,35.57
+"Ponce zona urbana, Puerto Rico",29381,107919.0,27.71,1466.89,35.57
+"Potala Pastillo comunidad, Puerto Rico",29382,2465.0,27.71,1466.89,35.57
+"Pueblito del Carmen comunidad, Puerto Rico",29383,744.0,27.71,1466.89,35.57
+"Pueblito del Río comunidad, Puerto Rico",29384,1293.0,27.71,1466.89,35.57
+"Puerto Real comunidad, Puerto Rico",29385,5995.0,27.71,1466.89,35.57
+"Punta Santiago comunidad, Puerto Rico",29386,4595.0,27.71,1466.89,35.57
+"Quebrada comunidad, Puerto Rico",29387,1082.0,27.71,1466.89,35.57
+"Quebrada del Agua comunidad, Puerto Rico",29388,1255.0,27.71,1466.89,35.57
+"Quebradillas zona urbana, Puerto Rico",29389,4317.0,27.71,1466.89,35.57
+"Rafael Capó comunidad, Puerto Rico",29390,1274.0,27.71,1466.89,35.57
+"Rafael González comunidad, Puerto Rico",29391,1873.0,27.71,1466.89,35.57
+"Rafael Hernández comunidad, Puerto Rico",29392,971.0,27.71,1466.89,35.57
+"Ramos comunidad, Puerto Rico",29393,1590.0,27.71,1466.89,35.57
+"Rincón zona urbana, Puerto Rico",29394,928.0,27.71,1466.89,35.57
+"Río Blanco comunidad, Puerto Rico",29395,1705.0,27.71,1466.89,35.57
+"Río Cañas Abajo comunidad, Puerto Rico",29396,1244.0,27.71,1466.89,35.57
+"Río Grande zona urbana, Puerto Rico",29397,13032.0,27.71,1466.89,35.57
+"Río Lajas comunidad, Puerto Rico",29398,2579.0,27.71,1466.89,35.57
+"Rodr?guez Hevia zona urbana, Puerto Rico",29399,207.0,27.71,1466.89,35.57
+"Rosa Sánchez comunidad, Puerto Rico",29400,424.0,27.71,1466.89,35.57
+"Sabana comunidad, Puerto Rico",29401,692.0,27.71,1466.89,35.57
+"Sabana Eneas comunidad, Puerto Rico",29402,966.0,27.71,1466.89,35.57
+"Sabana Grande zona urbana, Puerto Rico",29403,9720.0,27.71,1466.89,35.57
+"Sabana Hoyos comunidad, Puerto Rico",29404,2127.0,27.71,1466.89,35.57
+"Sabana Seca comunidad, Puerto Rico",29405,6914.0,27.71,1466.89,35.57
+"Salinas zona urbana, Puerto Rico",29406,4665.0,27.71,1466.89,35.57
+"San Antonio comunidad (Aguadilla Municipio), Puerto Rico",29407,1370.0,27.71,1466.89,35.57
+"San Antonio comunidad (Dorado Municipio), Puerto Rico",29408,7974.0,27.71,1466.89,35.57
+"San Antonio comunidad (Quebradillas Municipio), Puerto Rico",29409,1678.0,27.71,1466.89,35.57
+"San Germán zona urbana, Puerto Rico",29410,11113.0,27.71,1466.89,35.57
+"San Isidro comunidad, Puerto Rico",29411,6194.0,27.71,1466.89,35.57
+"San José comunidad, Puerto Rico",29412,2475.0,27.71,1466.89,35.57
+"San Juan zona urbana, Puerto Rico",29413,310029.0,27.71,1466.89,35.57
+"San Lorenzo zona urbana, Puerto Rico",29414,7247.0,27.71,1466.89,35.57
+"San Sebastián zona urbana, Puerto Rico",29415,7636.0,27.71,1466.89,35.57
+"Santa Bárbara comunidad, Puerto Rico",29416,4756.0,27.71,1466.89,35.57
+"Santa Clara comunidad, Puerto Rico",29417,928.0,27.71,1466.89,35.57
+"Cerrillos Hoyos comunidad, Puerto Rico",29433,1057.0,27.71,1466.89,35.57
+"Rodr?guez Hevia comunidad, Puerto Rico",29434,500.0,27.71,1466.89,35.57
+"Rodriguez Hevia comunidad, Puerto Rico",29537,51.0,27.71,1466.89,35.57
+"Bairoa La Veinticinco comunidad, Puerto Rico",29541,652.0,27.71,1466.89,35.57
+"Boqueron comunidad (Cabo Rojo Municipio), Puerto Rico",29542,2695.0,27.71,1466.89,35.57
+"Boquerón comunidad (Cabo Rojo Municipio), Puerto Rico",29589,1538.0,27.71,1466.89,35.57
+"Boquerón comunidad (Las Piedras Municipio), Puerto Rico",29590,1119.0,27.71,1466.89,35.57
+"Hacienda San José comunidad, Puerto Rico",29591,3112.0,27.71,1466.89,35.57
+"Rodríguez Hevia comunidad, Puerto Rico",29594,252.0,27.71,1466.89,35.57
 "Albany, Vermont",26480,170.0,17.25,1466.89,43.0
 "Alburg, Vermont",26481,-995.0,17.25,1466.89,43.0
 "Arlington, Vermont",26482,1422.0,17.25,1466.89,43.0
